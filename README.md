@@ -1,1 +1,1 @@
-# IsEvenFunction-Eloquent-Javascript-Exercise5
+# IsEvenFunction-Eloquent-JavaScript-Exercise5
